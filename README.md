@@ -16,6 +16,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mateus-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 
@@ -24,9 +25,6 @@
   <a href="https://instagram.com/mateuxoficial2.0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mateusrodrigues.vr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-rodrigues-da-silva-41a403227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right"  height="180em" src="https://cdn.discordapp.com/attachments/898272260366934057/1119049078785986590/download.jpeg">
   
-</div>
-
-<div>
-  <img height="100em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbotafogo-tiquinho-soares-tiquinho-soares-atacante-gif-27061445&psig=AOvVaw3KFZXwRCzWBoXxVSjlnQ52&ust=1686958290392000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi74ry3xv8CFQAAAAAdAAAAABA6">
 </div>
