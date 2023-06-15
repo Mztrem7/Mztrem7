@@ -25,6 +25,6 @@
   <a href="https://instagram.com/mateuxoficial2.0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mateusrodrigues.vr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-rodrigues-da-silva-41a403227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right"  height="180em" src="https://cdn.discordapp.com/attachments/898272260366934057/1119049078785986590/download.jpeg">
+  <img align="right"  height="180em" src="https://cdn.discordapp.com/attachments/898272260366934057/1119051397476925500/botafogo-logo-escudo.png">
   
 </div>
