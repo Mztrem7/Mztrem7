@@ -1,22 +1,20 @@
 ## Olá eu sou o Mateus Rodrigues
-
-- 🔭 Hoje estudo na Informática para Internet na esocola FAETEC no Rio de Janeiro 
-- 🌱 Atualmente aprendendo JS, ReactJS, NodeJS, CSS. (matéria da escola)
-- 📫 Instagram: @mateuxoficial2.0
-
-
-<div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mztrem7&show_icons=true&theme=dark&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mztrem7&layout=compact&lang_count=16&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <div style="display: inline_block">
+- 🌱 Atualmente aprendendo  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mateus-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>(matéria escolar)<br>
+- 🔭 Hoje estudo na Informática para Internet na esocola FAETEC no Rio de Janeiro
+- 📫 Instagram: @mateuxoficial2.0
+
+<h1>Status</h1>
+
+<div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mztrem7&show_icons=true&theme=dark&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mztrem7&layout=compact&lang_count=16&theme=dark"/>
 </div>
 
 
