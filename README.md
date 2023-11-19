@@ -9,7 +9,7 @@
   <img align="center" alt="Mateus-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mateus-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-</div>(matéria escolar)<br>
+</div>
 - 🔭 Hoje estudo na Informática para Internet na esocola FAETEC no Rio de Janeiro
 - 📫 Instagram: @mateuxoficial2.0
 
